@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# head
+reset; echo
+screenfetch
+echo
+
+# body
+echo -e "\x1b[0;96m[*] \x1b[0;92mAuthor \x1b[0;91m: \x1b[0;97mRiky Ripaldo"
+echo -e "\x1b[0;96m[*] \x1b[0;92mGithub \x1b[0;91m: \x1b[3;93mhttps://github.com/RikyXDZ\x1b[0m"
+echo -e "\x1b[0;96m[*] \x1b[0;92mFacebook \x1b[0;91m: \x1b[4;94mhttps://www.facebook.com/RikyXDZ\x1b[0m"
+echo
+
+# script
+sleep 3
+node index

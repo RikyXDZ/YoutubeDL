@@ -1,0 +1,24 @@
+{
+  "name": "rikyytdl",
+  "version": "1.0.0",
+  "description": "Youtube Downloader",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RikyXDZ"
+  },
+  "keywords": [
+    "ytdl"
+  ],
+  "author": "Riky Ripaldo",
+  "license": "ISC",
+  "dependencies": {
+    "child_process": "^1.0.2",
+    "ejs": "^3.1.6",
+    "express": "^4.17.2",
+    "ytdl-core": "^4.10.0"
+  }
+}
