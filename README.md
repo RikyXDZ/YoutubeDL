@@ -1,6 +1,7 @@
 # Youtube Downloader
 
 * Installation
+
 ```bash
 > apt update && apt upgrade
 > apt install git
@@ -9,15 +10,18 @@
 ```
 
 * Setup
+
 ```bash
 > cd YoutubeDL
 > ./install
 ```
 
 * Start
+
 ```bash
 > ./start
 ```
 
-* Copyright
-["Riky Ripaldo"](https://www.facebook.com/RikyXDZ) - author
+# Copyright
+
+[Riky Ripaldo](https://www.facebook.com/RikyXDZ) - author
